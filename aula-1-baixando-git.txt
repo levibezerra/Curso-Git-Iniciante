@@ -1,0 +1,39 @@
+O QUE É GIT:
+
+É um  sistema de controle de versão distribuído.
+
+O QUE É CONTOLE DE VERSÃO:
+
+É um sitema que gerência/registra todas as alterações feitas em um arquivo ou um conjunto de arquivos com o passar do tempo,
+de forma a permitir recuperar versões especificas.
+
+VANTAGEM DO CONTROLE DE VERSÃO:
+
+Permite que varias pessoas trabalhem ao mesmo tempo sem que aja conflito ou bagunça com o projeto.
+
+O QUE É REPOSITÓRIO:
+
+O Repositório serve como servidor central onde os dados do projeto ficam por padrão.
+
+ESTADO DOS ARQUIVOS DO GIT:
+
+1 - ESTAGIO: WORKING DIRECTORY
+
+É o diretório onde você está trabalhando, esse diretório é criado quando você vai no repositório e pega a base do sistema e trás
+para sua maquína para ajudar no desenvolvimento.
+
+2 - ESTAGIO: STAGING AREA:
+
+É a sala de espera onde os arquivos que você já modificou ficam antes de ser enviados de volta para o repositório.
+
+3 - ESTAGIO: GIT DIRECTORY
+
+É o repositório final que é a base onde você pegou os arquivos para trabalhar. 
+
+GIT DOWNLOAD LINK: https://git-scm.com/downloads
+
+DEPOIS QUE BAIXOU O GIT FAZER DUAS CONFIGURAÇÕES NO TERMINAL:
+
+PRIMEIRA CONFIGURAÇÃO DIGITE: git config --global user.name 'informe seu nome dentro das aspas' click ENTER para confirmar.
+
+SEGUNDA CONFIGURAÇÃO DIGITE: git config --global user.email 'informe seu endereço de email dentro das aspas'
